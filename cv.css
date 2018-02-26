@@ -1,0 +1,118 @@
+/*--------------------------------------------------------
+                        Colors
+                        orange: #ff8200;
+                        grey: #4b505a;
+----------------------------------------------------------*/
+
+
+
+
+.navigation {
+    float: right;
+    margin-left: auto;
+}
+
+.logo {
+    font-family: 'Marck Script', 'Times New Roman', serif;
+    font-size: 3em;
+}
+
+.form {
+    margin: 4em auto;
+}
+
+.form1 {
+    margin-bottom: 1em;
+}
+
+.form1 p {
+    margin-bottom: 0;
+}
+
+.form1 ul{
+    margin-top: 2em;
+}
+
+.form1 h4 {
+    margin-bottom: 1em;
+}
+
+.form2 h5 {
+    margin-top: 0.3em;
+    margin-bottom: 1.7em;
+}
+
+.btn-success {
+    margin-top: 1em;
+}
+
+.work-education h5 {
+    margin-top: 1.5em;
+    border-bottom: 1px solid rgb(226, 226, 226);
+}
+
+.work-education h6, .logo span, .form1 h1,h4,span, .picture h3 {
+    color: #ff8200;
+}
+
+/* .header {
+    border-bottom: 1px solid #ff8200;
+} */
+
+
+.work-education {
+    margin: 2em 0;
+}
+
+img {
+    width: 100%;
+}
+
+.picture {
+    margin: 4em 0;
+    /* border: 1px solid #4b505a; */
+}
+
+.firstpage {
+    margin: 3em 0;
+    
+}
+
+.navbar-light .navbar-nav .nav-link:hover {
+    color:#ff8200;
+}
+
+.navbar-dark .navbar-nav .nav-link:hover {
+    color:#ff8200;
+}
+
+.navbar-dark .navbar-nav.navigation .nav-link.active {
+    color:#ff8200;
+}
+
+.fab {
+    font-size: 1.5em;
+    
+}
+
+/* .navbar .navbar-expand-lg .navbar-light .navbar-nav .navigation .nav-item .nav-link .active {
+    color:#ff8200;
+} */
+
+/* #projects{
+    background-color: #4b505a;
+} */
+
+.nav.footer {
+    background-color: #4b505a;
+}
+
+.row.header {
+    background-color: #4b505a;
+}
+
+.btn {
+    background-color: #ff8200;
+}
+
+
