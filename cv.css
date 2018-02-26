@@ -46,12 +46,12 @@
     margin-top: 1em;
 }
 
-.work-education h5 {
+.work-education h5, .projects h5, .project {
     margin-top: 1.5em;
     border-bottom: 1px solid rgb(226, 226, 226);
 }
 
-.work-education h6, .logo span, .form1 h1,h4,span, .picture h3 {
+.work-education h6, .logo span, .form1 h1,h4,span, .picture h3, .projects h6 {
     color: #ff8200;
 }
 
@@ -60,7 +60,7 @@
 } */
 
 
-.work-education {
+.work-education, .projects {
     margin: 2em 0;
 }
 
@@ -95,14 +95,6 @@ img {
     
 }
 
-/* .navbar .navbar-expand-lg .navbar-light .navbar-nav .navigation .nav-item .nav-link .active {
-    color:#ff8200;
-} */
-
-/* #projects{
-    background-color: #4b505a;
-} */
-
 .nav.footer {
     background-color: #4b505a;
 }
@@ -114,5 +106,10 @@ img {
 .btn {
     background-color: #ff8200;
 }
+
+.projects .fab {
+    font-size: 1.5em;
+}
+
 
 
