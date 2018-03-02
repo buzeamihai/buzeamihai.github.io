@@ -55,10 +55,6 @@
     color: #ff8200;
 }
 
-/* .header {
-    border-bottom: 1px solid #ff8200;
-} */
-
 
 .work-education, .projects {
     margin: 2em 0;
@@ -99,16 +95,13 @@ img {
     background-color: #4b505a;
 }
 
-.row.header {
-    background-color: #4b505a;
-}
 
 .btn {
     background-color: #ff8200;
 }
 
-.projects .fab {
-    font-size: 1.5em;
+.project .fab {
+    font-size: 1em;
 }
 
 
